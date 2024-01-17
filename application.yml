@@ -4,7 +4,7 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 36000
+            timeoutInMilliseconds: 37000
 
 feign:
   client:
