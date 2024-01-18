@@ -17,3 +17,5 @@ security:
   oauth2:
     resource:
       user-info-uri: http://auth-service/uaa/users/current
+
+name: config-server
