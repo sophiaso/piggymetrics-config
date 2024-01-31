@@ -18,4 +18,4 @@ security:
     resource:
       user-info-uri: http://auth-service/uaa/users/current
 
-name: config-server
+name: asa-config-server
